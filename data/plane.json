@@ -1,0 +1,38 @@
+[
+    {
+        "flightNumber": 1,
+        "airlineName": "Merak Indonesia",
+        "origin": "Jakarta",       
+        "destination": "Bandung"
+    },
+    {
+        "flightNumber": 2,
+        "airlineName": "Simpati Air",
+        "origin": "Bali",
+        "destination": "Lombok"
+    },
+    {
+        "flightNumber": 3,
+        "airlineName": "Dewi Air",
+        "origin": "Surabaya",
+        "destination": "Batam"
+    },
+    {
+        "flightNumber": 4,
+        "airlineName": "Harapan Air",
+        "origin": "Surabaya",
+        "destination": "Jakarta"
+    },
+    {
+        "flightNumber": 5,
+        "airlineName": "Singa Air",
+        "origin": "Makasar",       
+        "destination": "Jayapura"
+    },
+    {
+        "flightNumber": 6,
+        "airlineName": "Elang Air",
+        "origin": "Aceh",       
+        "destination": "Surabaya"
+    }
+]

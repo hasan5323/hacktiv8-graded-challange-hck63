@@ -1,0 +1,350 @@
+[
+    {
+        "id": 3,
+        "name": "Budi",
+        "gender": "Male",
+        "ticket": {
+            "airlineName": "Merak Indonesia",
+            "type": "Economy",
+            "origin": "Makasar",
+            "destination": "Jayapura",
+            "seatNumber": "A-1"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Rinta",
+        "gender": "Female",
+        "ticket": {
+            "airlineName": "Harapan Air",
+            "type": "VIP",
+            "origin": "Surabaya",
+            "destination": "Jakarta",
+            "seatNumber": "B-1"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Ani",
+        "gender": "Female",
+        "ticket": {
+            "airlineName": "Harapan Air",
+            "type": "VIP",
+            "origin": "Surabaya",
+            "destination": "Jakarta",
+            "seatNumber": "A-1"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Einstein",
+        "gender": "Male",
+        "ticket": {
+            "airlineName": "Merak Indonesia",
+            "type": "Business",
+            "origin": "Jakarta",
+            "destination": "Bandung",
+            "seatNumber": "A-7"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Elsa",
+        "gender": "Female",
+        "ticket": {
+            "airlineName": "Merak Indonesia",
+            "type": "Business",
+            "origin": "Jakarta",
+            "destination": "Bandung",
+            "seatNumber": "B-7"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Libran",
+        "gender": "Male",
+        "ticket": {
+            "airlineName": "Merak Indonesia",
+            "type": "Business",
+            "origin": "Jakarta",
+            "destination": "Bandung",
+            "seatNumber": "B-3"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Fida",
+        "gender": "Female",
+        "ticket": {
+            "airlineName": "Merak Indonesia",
+            "type": "Business",
+            "origin": "Jakarta",
+            "destination": "Bandung",
+            "seatNumber": "A-3"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Hasan",
+        "gender": "Male",
+        "ticket": {
+            "airlineName": "Simpati Air",
+            "type": "Economy",
+            "origin": "Bali",
+            "destination": "Lombok",
+            "seatNumber": "A-6"
+        }
+    },
+    {
+        "id": 11,
+        "name": "Azhar",
+        "gender": "Male",
+        "ticket": {
+            "airlineName": "Dewi Air",
+            "type": "VIP",
+            "origin": "Surabaya",
+            "destination": "Batam",
+            "seatNumber": "B-6"
+        }
+    },
+    {
+        "id": 12,
+        "name": "Amri",
+        "gender": "Male",
+        "ticket": {
+            "airlineName": "Harapan Air",
+            "type": "VIP",
+            "origin": "Surabaya",
+            "destination": "Jakarta",
+            "seatNumber": "B-5"
+        }
+    },
+    {
+        "id": 13,
+        "name": "Adil",
+        "gender": "Male",
+        "ticket": {
+            "airlineName": "Singa Air",
+            "type": "VIP",
+            "origin": "Makasar",
+            "destination": "Jayapura",
+            "seatNumber": "C-5"
+        }
+    },
+    {
+        "id": 14,
+        "name": "Zaid",
+        "gender": "Male",
+        "ticket": {
+            "airlineName": "Singa Air",
+            "type": "VIP",
+            "origin": "Makasar",
+            "destination": "Jayapura",
+            "seatNumber": "D-6"
+        }
+    },
+    {
+        "id": 15,
+        "name": "Zaka",
+        "gender": "Male",
+        "ticket": {
+            "airlineName": "Singa Air",
+            "type": "VIP",
+            "origin": "Makasar",
+            "destination": "Jayapura",
+            "seatNumber": "C-6"
+        }
+    },
+    {
+        "id": 16,
+        "name": "Izza",
+        "gender": "Male",
+        "ticket": {
+            "airlineName": "Singa Air",
+            "type": "VIP",
+            "origin": "Makasar",
+            "destination": "Jayapura",
+            "seatNumber": "D-5"
+        }
+    },
+    {
+        "id": 17,
+        "name": "Budi",
+        "gender": "Male",
+        "ticket": {
+            "airlineName": "Elang Air",
+            "type": "VIP",
+            "origin": "Aceh",
+            "destination": "Surabaya",
+            "seatNumber": "C-3"
+        }
+    },
+    {
+        "id": 18,
+        "name": "Kamila",
+        "gender": "Female",
+        "ticket": {
+            "airlineName": "Elang Air",
+            "type": "VIP",
+            "origin": "Aceh",
+            "destination": "Surabaya",
+            "seatNumber": "D-3"
+        }
+    },
+    {
+        "id": 19,
+        "name": "Ahmad",
+        "gender": "Male",
+        "ticket": {
+            "airlineName": "Elang Air",
+            "type": "Business",
+            "origin": "Aceh",
+            "destination": "Surabaya",
+            "seatNumber": "C-4"
+        }
+    },
+    {
+        "id": 20,
+        "name": "Nisa",
+        "gender": "Female",
+        "ticket": {
+            "airlineName": "Elang Air",
+            "type": "Business",
+            "origin": "Aceh",
+            "destination": "Surabaya",
+            "seatNumber": "D-4"
+        }
+    },
+    {
+        "id": 21,
+        "name": "Musa",
+        "gender": "Male",
+        "ticket": {
+            "airlineName": "Elang Air",
+            "type": "Business",
+            "origin": "Aceh",
+            "destination": "Surabaya",
+            "seatNumber": "B-4"
+        }
+    },
+    {
+        "id": 22,
+        "name": "Hafiz",
+        "gender": "Male",
+        "ticket": {
+            "airlineName": "Simpati Air",
+            "type": "Business",
+            "origin": "Bali",
+            "destination": "Lombok",
+            "seatNumber": "C-4"
+        }
+    },
+    {
+        "id": 23,
+        "name": "Daus",
+        "gender": "Male",
+        "ticket": {
+            "airlineName": "Simpati Air",
+            "type": "Business",
+            "origin": "Bali",
+            "destination": "Lombok",
+            "seatNumber": "D-4"
+        }
+    },
+    {
+        "id": 24,
+        "name": "Yusuf",
+        "gender": "Male",
+        "ticket": {
+            "airlineName": "Simpati Air",
+            "type": "Business",
+            "origin": "Bali",
+            "destination": "Lombok",
+            "seatNumber": "B-4"
+        }
+    },
+    {
+        "id": 25,
+        "name": "Nina",
+        "gender": "Female",
+        "ticket": {
+            "airlineName": "Simpati Air",
+            "type": "Business",
+            "origin": "Bali",
+            "destination": "Lombok",
+            "seatNumber": "A-4"
+        }
+    },
+    {
+        "id": 26,
+        "name": "Maria",
+        "gender": "Female",
+        "ticket": {
+            "airlineName": "Simpati Air",
+            "type": "Business",
+            "origin": "Bali",
+            "destination": "Lombok",
+            "seatNumber": "A-8"
+        }
+    },
+    {
+        "id": 27,
+        "name": "Nunin",
+        "gender": "Female",
+        "ticket": {
+            "airlineName": "Simpati Air",
+            "type": "Business",
+            "origin": "Bali",
+            "destination": "Lombok",
+            "seatNumber": "B-8"
+        }
+    },
+    {
+        "id": 28,
+        "name": "Ibrahim",
+        "gender": "Male",
+        "ticket": {
+            "airlineName": "Merak Indonesia",
+            "type": "Economy",
+            "origin": "Jakarta",
+            "destination": "Bandung",
+            "seatNumber": "A-2"
+        }
+    },
+    {
+        "id": 29,
+        "name": "Afifah",
+        "gender": "Female",
+        "ticket": {
+            "airlineName": "Merak Indonesia",
+            "type": "Economy",
+            "origin": "Jakarta",
+            "destination": "Bandung",
+            "seatNumber": "B-2"
+        }
+    },
+    {
+        "id": 30,
+        "name": "Syakir",
+        "gender": "Male",
+        "ticket": {
+            "airlineName": "Merak Indonesia",
+            "type": "Economy",
+            "origin": "Jakarta",
+            "destination": "Bandung",
+            "seatNumber": "C-7"
+        }
+    },
+    {
+        "id": 31,
+        "name": "Mira",
+        "gender": "Female",
+        "ticket": {
+            "airlineName": "Merak Indonesia",
+            "type": "Business",
+            "origin": "Jakarta",
+            "destination": "Bandung",
+            "seatNumber": "A-4"
+        }
+    }
+]
