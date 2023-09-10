@@ -90,8 +90,14 @@ class Model {
         callback(err);
       } else {
         let boardedPassenger = dataFlight.passenger;
-        let seatStatus = true;
-        if (boardedPassenger.length !== 0) {
+        let seatStatus = false
+        let planeSeats = ["A-1","A-2","A-3","A-4","A-5","A-6","A-7","A-8","B-1","B-2","B-3","B-4","B-5","B-6","B-7","B-8","C-1","C-2","C-3","C-4","C-5","C-6","C-7","C-8","D-1","D-2","D-3","D-4","D-5","D-6","D-7","D-8",]
+        for (const seat of planeSeats) {
+          if (seatNumber === seat) {
+            seatStatus = true;
+            break
+          }
+        }        if (boardedPassenger.length !== 0) {
           for (const passenger of boardedPassenger) {
             console.log(passenger.name, ">>>", passenger.ticket.seatNumber);
             if (passenger.ticket.seatNumber === seatNumber) {
